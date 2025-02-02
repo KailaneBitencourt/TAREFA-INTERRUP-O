@@ -38,3 +38,5 @@ Este projeto utiliza os seguintes componentes conectados à placa **BitDogLab**:
 ### VÍDEO DO CÓDIGO
 
 https://youtube.com/shorts/0dsVMNzgvsI?feature=share
+
+OBS: O CÓDIGO TEVE COMO BASE PRINCIPAL O CÓDIGO UTILIZADO NA AULA DO DIA 27.01.2025
