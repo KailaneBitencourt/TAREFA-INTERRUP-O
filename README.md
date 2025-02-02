@@ -34,3 +34,7 @@ Este projeto utiliza os seguintes componentes conectados à placa **BitDogLab**:
 2. **Debouncing:** É obrigatório implementar o **tratamento do bouncing** dos botões via software.
 3. **Controle de LEDs:** O projeto deve incluir o uso de **LEDs comuns** e **LEDs WS2812**, demonstrando o domínio de diferentes tipos de controle.
 4. **Organização do código:** O código deve estar **bem estruturado** e **comentado** para facilitar o entendimento.
+
+### VÍDEO DO CÓDIGO
+
+https://youtube.com/shorts/0dsVMNzgvsI?feature=share
